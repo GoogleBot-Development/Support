@@ -1,11 +1,14 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Create a report to help us improve GoogleBot or GoogleMusic
 title: ''
-labels: 'bug'
+labels: bug
 assignees: ''
 
 ---
+
+**Which bot are you creating a report for?**
+The bot's name.
 
 **Describe the bug**
 A clear and concise description of what the bug is.

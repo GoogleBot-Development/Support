@@ -1,11 +1,14 @@
 ---
 name: Feature Request
-about: Suggest an idea for this project
+about: Suggest an idea for GoogleBot or GoogleMusic
 title: ''
-labels: 'enhancement'
+labels: enhancement
 assignees: ''
 
 ---
+
+**Which bot are you requesting a feature for?**
+The bot's name.
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
