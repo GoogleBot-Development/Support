@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest an idea for GoogleBot or GoogleMusic
-title: ''
+title: 'Feature Request-'
 labels: enhancement
 assignees: ''
 
