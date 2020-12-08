@@ -1,7 +1,7 @@
 ---
 name: Other
 about: Anything else
-title: 'Other-'
+title: ''
 labels: other
 assignees: ''
 
@@ -9,5 +9,5 @@ assignees: ''
 **Which bot are you making an issue for?**
 The bot's name.
 
-**My inquiry**
+**My inquiry:**
 Make a good report or inquiry here!
