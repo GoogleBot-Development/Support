@@ -6,5 +6,7 @@ labels: other
 assignees: ''
 
 ---
+**Which bot are you making an issue for?**
+GoogleMusic
 
-
+**My inquiry**
