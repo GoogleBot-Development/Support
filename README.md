@@ -4,6 +4,7 @@ Thank you for reporting any issues you are facing. By doing that you help us and
 
 Before you report an issue, please consider these simple rules:
 
+- **Your report shouldn't be made for harassment purposes. If your report was made for harassment purposes, your issue will be locked and closed.**
 - Your report should be concise and on topic
 - Keep discussions to the issue at hand, be friendly and constructive
 
